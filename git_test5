@@ -1,0 +1,3 @@
+git add
+git commint file -m comment
+git push
